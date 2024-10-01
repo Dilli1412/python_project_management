@@ -1,6 +1,7 @@
 import streamlit as st
 import sqlite3
 import hashlib
+import streamlit_quill
 from datetime import datetime
 from streamlit_quill import st_quill
 import smtplib
