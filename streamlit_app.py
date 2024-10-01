@@ -3,7 +3,6 @@ import sqlite3
 import hashlib
 from datetime import datetime
 from streamlit_quill import st_quill
-import re
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
